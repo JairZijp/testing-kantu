@@ -5,6 +5,10 @@
     {
       "macro": "HVA SE test",
       "loops": 1
+    },
+    {
+      "macro": "HVA Form test",
+      "loops": 1
     }
   ],
   "fold": false,

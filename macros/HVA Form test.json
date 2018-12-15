@@ -1,0 +1,73 @@
+{
+  "Name": "HVA Form test",
+  "CreationDate": "2018-12-15",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://docs.google.com/forms/d/e/1FAIpQLSfekJfM7MJiu7EGPrqfcKbD07znNNRZ7Fa0dhS5r9P8ssL1kA/viewform",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "/html/body/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "name=entry.2092238618",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "name=entry.2092238618",
+      "Value": "Test"
+    },
+    {
+      "Command": "type",
+      "Target": "name=entry.1556369182",
+      "Value": "test@hva.nl"
+    },
+    {
+      "Command": "type",
+      "Target": "name=entry.479301265",
+      "Value": "HvA"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[4]/div[2]/div[1]/div/label/div/div[1]/div[2]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[4]/div[2]/div[2]/div/label/div/div[1]/div[2]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[4]/div[2]/div[3]/div/label/div/div[1]/div[2]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[5]/div[2]/div/content/div/label[1]/div/div[1]/div[3]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[6]/div[2]/div/div/label/div/div[1]/div[2]",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[3]/div[1]/div/div/content/span",
+      "Value": ""
+    },
+    {
+      "Command": "echo",
+      "Target": "",
+      "Value": "Gelukt!"
+    }
+  ],
+  "status": "SUCCESS",
+  "id": "1544886056652.456b17"
+}
