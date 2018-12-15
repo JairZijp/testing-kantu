@@ -1,0 +1,48 @@
+{
+  "Name": "HVA SE test",
+  "CreationDate": "2018-12-15",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "http://www.hva.nl/onderwijs/opleidingen/opleidingen.html",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "/html/body/div[3]/div/div/div/div/div[1]/div[2]/form/input[1]",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "/html/body/div[3]/div/div/div/div/div[1]/div[2]/form/input[1]",
+      "Value": "ict"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"education-table\"]/tbody/tr[2]/td[1]/a/span[1]/span[1]",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "link=hva.nl/se",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"accordion\"]/div[1]/div[1]/h3/a/span",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "link=Lees meer",
+      "Value": ""
+    },
+    {
+      "Command": "selectFrame",
+      "Target": "index=0",
+      "Value": ""
+    }
+  ],
+  "status": "SUCCESS",
+  "id": "1544878415348.715a15"
+}

@@ -1,0 +1,20 @@
+{
+  "creationDate": "2018-12-15",
+  "name": "Testing Assigment 4",
+  "macros": [
+    {
+      "macro": "HVA SE test",
+      "loops": 1
+    }
+  ],
+  "fold": false,
+  "id": "1544879121868.c628",
+  "playStatus": {
+    "isPlaying": false,
+    "currentIndex": -1,
+    "errorIndices": [],
+    "doneIndices": [
+      0
+    ]
+  }
+}
