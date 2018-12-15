@@ -9,6 +9,10 @@
     {
       "macro": "HVA Form test",
       "loops": 1
+    },
+    {
+      "macro": "HVA while",
+      "loops": 1
     }
   ],
   "fold": false,
@@ -18,7 +22,9 @@
     "currentIndex": -1,
     "errorIndices": [],
     "doneIndices": [
-      0
+      0,
+      1,
+      2
     ]
   }
 }
