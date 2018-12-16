@@ -1,5 +1,5 @@
 {
-  "creationDate": "2018-12-15",
+  "creationDate": "2018-12-16",
   "name": "Testing Assigment 4",
   "macros": [
     {
@@ -13,6 +13,10 @@
     {
       "macro": "HVA while",
       "loops": 1
+    },
+    {
+      "macro": "HVA csv test",
+      "loops": 1
     }
   ],
   "fold": false,
@@ -24,7 +28,8 @@
     "doneIndices": [
       0,
       1,
-      2
+      2,
+      3
     ]
   }
 }

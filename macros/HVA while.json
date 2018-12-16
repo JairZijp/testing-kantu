@@ -1,0 +1,48 @@
+{
+  "Name": "HVA while",
+  "CreationDate": "2018-12-16",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://counter.onlineclock.net/",
+      "Value": ""
+    },
+    {
+      "Command": "store",
+      "Target": "1",
+      "Value": "counter"
+    },
+    {
+      "Command": "while",
+      "Target": "(${counter} < 5)",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Count Up",
+      "Value": ""
+    },
+    {
+      "Command": "echo",
+      "Target": "Loop= ${counter}",
+      "Value": "blue"
+    },
+    {
+      "Command": "storeEval",
+      "Target": "${counter}+1",
+      "Value": "counter"
+    },
+    {
+      "Command": "endWhile",
+      "Target": "",
+      "Value": ""
+    },
+    {
+      "Command": "echo",
+      "Target": "done!",
+      "Value": "green"
+    }
+  ],
+  "status": "SUCCESS",
+  "id": "1544886782726.7917e1"
+}
