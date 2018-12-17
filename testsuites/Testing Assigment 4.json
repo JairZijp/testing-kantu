@@ -21,6 +21,10 @@
     {
       "macro": "HVA visual veriify",
       "loops": 1
+    },
+    {
+      "macro": "CB sort price",
+      "loops": 1
     }
   ],
   "fold": false,
@@ -33,7 +37,9 @@
       0,
       1,
       2,
-      3
+      3,
+      4,
+      5
     ]
   }
 }

@@ -31,7 +31,38 @@
       "Command": "visualVerify",
       "Target": "mnVO8L_dpi_120.png",
       "Value": ""
+    },
+    {
+      "Command": "onError",
+      "Target": "#goto",
+      "Value": "handle-error"
+    },
+    {
+      "Command": "label",
+      "Target": "handle-error",
+      "Value": ""
+    },
+    {
+      "Command": "echo",
+      "Target": "Can not verify the image",
+      "Value": "red"
+    },
+    {
+      "Command": "gotoLabel",
+      "Target": "end-of-script",
+      "Value": ""
+    },
+    {
+      "Command": "echo",
+      "Target": "This line will never happen",
+      "Value": "red"
+    },
+    {
+      "Command": "label",
+      "Target": "end-of-script",
+      "Value": ""
     }
   ],
+  "status": "SUCCESS",
   "id": "1545057451285.532382"
 }
