@@ -1,0 +1,78 @@
+{
+  "Name": "TIJ_Portfolio",
+  "CreationDate": "2018-12-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "http://www.thisisjil.nl/",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"page\"]/div[1]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=About me",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"page\"]/div[1]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=My portfolio",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"page\"]/div[1]/div/div[2]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Contact",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"page\"]/div[1]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "name=s",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "name=s",
+      "Value": "project"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"primary-sidebar\"]/div/div/form/input",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Projectweek short film",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Next",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Next@POS=2",
+      "Value": ""
+    }
+  ],
+  "status": "SUCCESS",
+  "id": "1545084245454.81b213"
+}

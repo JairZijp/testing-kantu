@@ -19,27 +19,34 @@
       "loops": 1
     },
     {
-      "macro": "HVA visual veriify",
+      "macro": "CB sort price",
       "loops": 1
     },
     {
-      "macro": "CB sort price",
+      "macro": "GF Verifyelement",
+      "loops": 1
+    },
+    {
+      "macro": "TIJ_Portfolio",
       "loops": 1
     }
   ],
   "fold": false,
-  "id": "1544879121868.c628",
+  "id": "1545086435628.8b1539",
   "playStatus": {
     "isPlaying": false,
     "currentIndex": -1,
-    "errorIndices": [],
+    "errorIndices": [
+      6
+    ],
     "doneIndices": [
       0,
       1,
       2,
       3,
       4,
-      5
+      5,
+      6
     ]
   }
 }

@@ -1,0 +1,138 @@
+{
+  "Name": "GF Verifyelement",
+  "CreationDate": "2018-12-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://docs.google.com/forms/d/e/1FAIpQLSeht3uuIQinBsmvGIb3p4srmGkdM8-iGUfVF-ZlXmJGVRuslQ/viewform",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[1]/div[2]/div/content/div/label[1]/div/div[1]/div[3]/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[3]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[3]/div[2]/div[1]/div[1]/div[1]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[3]/div[2]/div[2]/div[3]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "name=entry.354030345",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "name=entry.354030345",
+      "Value": "Baby dont hurt me"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[5]/div[2]/div/content/div/label[10]/div[2]/div/div[3]/div",
+      "Value": ""
+    },
+    {
+      "Command": "verifyElementPresent",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[5]/div[2]/div/content/div/label[10]/div[2]/div/div[3]/div",
+      "Value": ""
+    },
+    {
+      "Command": "if",
+      "Target": "${!LastCommandOK}",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[6]/div[2]/div[1]/div/label/div/div[2]/div/span",
+      "Value": ""
+    },
+    {
+      "Command": "endif",
+      "Target": "",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[6]/div[2]/div[2]/div/label/div/div[2]/div/span",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[6]/div[2]/div[3]/div/label/div/div[2]/div/span",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[7]/div[2]/div/div[2]/div[1]/div/div[1]/input",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[7]/div[2]/div/div[2]/div[1]/div/div[1]/input",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[7]/div[2]/div/div[2]/div[1]/div/div[1]/input",
+      "Value": "0002-12-31"
+    },
+    {
+      "Command": "type",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[7]/div[2]/div/div[2]/div[1]/div/div[1]/input",
+      "Value": "0020-12-31"
+    },
+    {
+      "Command": "type",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[7]/div[2]/div/div[2]/div[1]/div/div[1]/input",
+      "Value": "0201-12-31"
+    },
+    {
+      "Command": "type",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[7]/div[2]/div/div[2]/div[1]/div/div[1]/input",
+      "Value": "2018-12-31"
+    },
+    {
+      "Command": "verifyElementPresent",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[5]/div[2]/div/content/div/label[1]/div[2]/div/div[3]/div",
+      "Value": ""
+    },
+    {
+      "Command": "if",
+      "Target": "${!LastCommandOK}",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[2]/div[5]/div[2]/div/content/div/label[1]/div[2]/div/div[3]/div",
+      "Value": ""
+    },
+    {
+      "Command": "endif",
+      "Target": "",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "//*[@id=\"mG61Hd\"]/div/div[2]/div[3]/div[1]/div/div/content/span",
+      "Value": ""
+    }
+  ],
+  "status": "SUCCESS",
+  "id": "1545083476639.242f77"
+}

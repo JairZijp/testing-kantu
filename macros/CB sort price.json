@@ -36,46 +36,6 @@
       "Command": "click",
       "Target": "id=sorting",
       "Value": ""
-    },
-    {
-      "Command": "verifyElementPresent",
-      "Target": "//*[@id=\"layout_wrapper\"]/div/div[3]/main/div/div[2]/div[2]/div/div[1]/div[1]/div/div/div",
-      "Value": ""
-    },
-    {
-      "Command": "if",
-      "Target": "${!LastCommandOK}",
-      "Value": ""
-    },
-    {
-      "Command": "clickAndWait",
-      "Target": "link=Acer Aspire 1 A114-32-C6U9",
-      "Value": ""
-    },
-    {
-      "Command": "endif",
-      "Target": "",
-      "Value": ""
-    },
-    {
-      "Command": "verifyText",
-      "Target": "//*[@id=\"js-product-scope\"]/h1/span",
-      "Value": "Acer Aspire 1 A114-32-C6U9"
-    },
-    {
-      "Command": "if",
-      "Target": "${!LastCommandOK}",
-      "Value": ""
-    },
-    {
-      "Command": "assertTitle",
-      "Target": "Acer Aspire 1 A114-32-C6U9 - Coolblue - alles voor een glimlach",
-      "Value": "I am the title page"
-    },
-    {
-      "Command": "endif",
-      "Target": "",
-      "Value": ""
     }
   ],
   "status": "SUCCESS",
