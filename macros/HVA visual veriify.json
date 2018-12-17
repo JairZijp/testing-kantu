@@ -1,0 +1,37 @@
+{
+  "Name": "HVA visual veriify",
+  "CreationDate": "2018-12-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "http://www.hva.nl/",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "link=Jaarrooster",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "/html/body/div[3]/div/div/div/div[1]/div/div[2]/ul/li[1]/a/span",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "/html/body/div[8]",
+      "Value": ""
+    },
+    {
+      "Command": "open",
+      "Target": "http://www.hva.nl/praktisch/studiekiezers/hva-breed/oo/jaarrooster/jaarrooster-st.html#anker-2018-2019-",
+      "Value": ""
+    },
+    {
+      "Command": "visualVerify",
+      "Target": "mnVO8L_dpi_120.png",
+      "Value": ""
+    }
+  ],
+  "id": "1545057451285.532382"
+}

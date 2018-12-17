@@ -1,5 +1,5 @@
 {
-  "creationDate": "2018-12-16",
+  "creationDate": "2018-12-17",
   "name": "Testing Assigment 4",
   "macros": [
     {
@@ -16,6 +16,10 @@
     },
     {
       "macro": "HVA csv test",
+      "loops": 1
+    },
+    {
+      "macro": "HVA visual veriify",
       "loops": 1
     }
   ],
